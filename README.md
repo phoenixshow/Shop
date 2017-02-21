@@ -12,7 +12,12 @@
 1、字段的绑定<br/>
 2、监听的绑定<br/>
 3、添加依赖的方法<br/>
-	（1）8.5.1版本要求Gradle版本为2.14，所以要求Android Studio版本2.2
-	（2）Android Studio版本2.1可依赖8.4.0版本
-	（3）AS更低版本可考虑依赖BK的7版本
+	（1）8.5.1版本要求Gradle版本为2.14，所以要求Android Studio版本2.2<br/>
+	（2）Android Studio版本2.1可依赖8.4.0版本<br/>
+	（3）AS更低版本可考虑依赖BK的7版本<br/>
+<br/>
+##RecyclerViewDemo演示了RecyclerView及SwipeRefreshLayout下拉刷新组件的基本用法
+1、RecyclerView的线性、九宫格、瀑布流布局<br/>
+2、RecyclerView的点击监听<br/>
+3、SwipeRefreshLayout下拉刷新<br/>
 <br/>
