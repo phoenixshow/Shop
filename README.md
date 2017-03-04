@@ -17,7 +17,11 @@
 	（3）AS更低版本可考虑依赖BK的7版本<br/>
 <br/>
 ##RecyclerViewDemo演示了RecyclerView及SwipeRefreshLayout下拉刷新组件的基本用法
-1、RecyclerView的线性、九宫格、瀑布流布局<br/>
-2、RecyclerView的点击监听<br/>
-3、SwipeRefreshLayout下拉刷新<br/>
-<br/>
+1. RecyclerView的线性、九宫格、瀑布流布局
+2. RecyclerView的点击监听
+3. SwipeRefreshLayout下拉刷新
+    
+##H5Demo演示了Android与JavaScript互调的基本方法
+使用的网页放在assets目录下    
+    
+
