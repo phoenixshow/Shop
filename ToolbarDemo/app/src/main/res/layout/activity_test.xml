@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    >
+    <!-- 显示标题文字和两侧按钮
+        使用默认左侧导航图标的方法：app:navigationIcon="@drawable/icon_back_32px"会导致标题右偏 -->
+    <com.phoenix.toolbar.weiget.ZYNToolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:title="主页"
+        app:leftButtonIcon="@drawable/icon_back_32px"
+        app:rightButtonIcon="@mipmap/icon_search"
+        />
+    <!-- 显示搜索文本框
+    <com.phoenix.toolbar.weiget.ZYNToolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:isShowSearchView="true"
+        /> -->
+</LinearLayout>
