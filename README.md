@@ -22,7 +22,7 @@
 3. SwipeRefreshLayout下拉刷新
     
 ##H5Demo演示了Android与JavaScript互调的基本方法
-使用的网页放在assets目录下    
+    使用的网页放在assets目录下    
     
 ##NumberAddSubView自定义数字加减控件
 1. 将控件进行组合形成的自定义控件
@@ -35,4 +35,7 @@
 ##ToolbarDemo演示了自定义Toolbar的基本方法
 1. 添加自定义属性
 2. 实现沉浸式状态栏    
+    
+##FragmentTabHostDemo演示了FragmentTabHost的基本用法
+    使用FragmentTabHost+Fragment实现的底部导航切换    
     
